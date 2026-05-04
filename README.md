@@ -94,7 +94,7 @@ num + num * num
 
 ## 👨‍💻 Autor
 
-Juan Gonzalo Echavarría
-Salome Naomi Garcia Tabares
+- Juan Gonzalo Echavarría
+- Salome Naomi Garcia Tabares
 ---
 
